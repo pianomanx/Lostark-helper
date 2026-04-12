@@ -313,7 +313,7 @@ export const goldTasks: GoldTask[] = [
           {
             name: "HM",
             HMThreashold: Infinity,
-            NightmareThreashold: 1400,
+            NightmareThreashold: Infinity,
             goldILvlLimit: Infinity,
             unboundGoldReward: 140,
             boundGoldReward: 560,
@@ -327,14 +327,6 @@ export const goldTasks: GoldTask[] = [
             boundGoldReward: 240,
             chestPrice: 75,
           },
-          {
-            name: 'Nightmare',
-            unboundGoldReward: 21000,
-            boundGoldReward: 0,
-            chestPrice: 6720,
-            HMThreashold: Infinity,
-            goldILvlLimit: Infinity,
-          }
         ]
       },
       {
@@ -353,7 +345,7 @@ export const goldTasks: GoldTask[] = [
           {
             name: "HM",
             HMThreashold: Infinity,
-            NightmareThreashold: 1400,
+            NightmareThreashold: Infinity,
             goldILvlLimit: Infinity,
             unboundGoldReward: 220,
             boundGoldReward: 880,
@@ -367,14 +359,6 @@ export const goldTasks: GoldTask[] = [
             boundGoldReward: 360,
             chestPrice: 100,
           },
-          {
-            name: 'Nightmare',
-            unboundGoldReward: 21000,
-            boundGoldReward: 0,
-            chestPrice: 6720,
-            HMThreashold: Infinity,
-            goldILvlLimit: Infinity,
-          }
         ]
       }
     ]
@@ -401,7 +385,7 @@ export const goldTasks: GoldTask[] = [
             boundGoldReward: 720,
             chestPrice: 500,
             HMThreashold: Infinity,
-            NightmareThreashold: 1800,
+            NightmareThreashold: Infinity,
             goldILvlLimit: Infinity
           },
           {
@@ -412,14 +396,6 @@ export const goldTasks: GoldTask[] = [
             HMThreashold: Infinity,
             goldILvlLimit: 1600
           },
-          {
-            name: 'Nightmare',
-            unboundGoldReward: 21000,
-            boundGoldReward: 0,
-            chestPrice: 6720,
-            HMThreashold: Infinity,
-            goldILvlLimit: Infinity,
-          }
         ]
       },
       {
@@ -440,7 +416,7 @@ export const goldTasks: GoldTask[] = [
             boundGoldReward: 1200,
             chestPrice: 650,
             HMThreashold: Infinity,
-            NightmareThreashold: 1800,
+            NightmareThreashold: Infinity,
             goldILvlLimit: Infinity
           },
           {
@@ -451,14 +427,6 @@ export const goldTasks: GoldTask[] = [
             HMThreashold: Infinity,
             goldILvlLimit: 1600
           },
-          {
-            name: 'Nightmare',
-            unboundGoldReward: 21000,
-            boundGoldReward: 0,
-            chestPrice: 6720,
-            HMThreashold: Infinity,
-            goldILvlLimit: Infinity,
-          }
         ]
       }
     ]
@@ -1488,14 +1456,6 @@ export const goldTasks: GoldTask[] = [
             HMThreashold: Infinity,
             goldILvlLimit: Infinity,
           },
-          {
-            name: 'Nightmare',
-            unboundGoldReward: 21000,
-            boundGoldReward: 0,
-            chestPrice: 6720,
-            HMThreashold: Infinity,
-            goldILvlLimit: Infinity,
-          }
         ],
       },
       {
@@ -1518,14 +1478,6 @@ export const goldTasks: GoldTask[] = [
             HMThreashold: 1740,
             goldILvlLimit: Infinity,
           },
-          {
-            name: 'Nightmare',
-            unboundGoldReward: 21000,
-            boundGoldReward: 0,
-            chestPrice: 6720,
-            HMThreashold: Infinity,
-            goldILvlLimit: Infinity,
-          }
         ],
       }
     ],
