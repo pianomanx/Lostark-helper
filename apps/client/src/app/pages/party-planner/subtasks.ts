@@ -110,4 +110,11 @@ export const subtasks: Subtask[] = [
   { id: `serca-normal`, name: `Serca Normal`, parentName: "Serca", minIlvl: 1710 },  
   { id: `serca-hard`, name: `Serca Hard`, parentName: "Serca", minIlvl: 1730 }, 
   { id: `serca-nightmare`, name: `Serca Nightmare`, parentName: "Serca", minIlvl: 1740 }, 
+
+  //Horizon Cathedral Difficulties
+  { id: `cathedral-stage1`, name: `Horizon Cathedral Stage 1`, parentName: "Horizon Cathedral", minIlvl: 1700 },  
+  { id: `cathedral-stage2`, name: `Horizon Cathedral Stage 2`, parentName: "Horizon Cathedral", minIlvl: 1720 }, 
+  { id: `cathedral-stage3`, name: `Horizon Cathedral Stage 3`, parentName: "Horizon Cathedral", minIlvl: 1750 }, 
+
+
 ];

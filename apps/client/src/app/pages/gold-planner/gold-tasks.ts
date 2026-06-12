@@ -1548,4 +1548,70 @@ export const goldTasks: GoldTask[] = [
       }
     ],
   },
+
+  // Abyssal Dungeon Horizon Cathedral
+  {
+    name: 'Horizon Cathedral',
+    taskName: 'Horizon Cathedral',
+    gates: [
+      {
+        name: 'Horizon Cathedral Gate 1',
+        completionId: 'T4.AB1.G1',
+        modes: [
+          {
+            name: 'NM',
+            unboundGoldReward: 0,
+            boundGoldReward: 13500,
+            chestPrice: 4320,
+            HMThreashold: 1720,
+            goldILvlLimit: Infinity,
+          },
+          {
+            name: 'HM',
+            unboundGoldReward: 0,
+            boundGoldReward: 16000,
+            chestPrice: 5120,
+            NightmareThreashold: 1750,
+            goldILvlLimit: Infinity,
+          },
+          {
+            name: 'Nightmare',
+            unboundGoldReward: 0,
+            boundGoldReward: 20000,
+            chestPrice: 6400,
+            goldILvlLimit: Infinity,
+          }
+        ],
+      },
+      {
+        name: 'Horizon Cathedral Gate 2',
+        completionId: 'T4.AB1.G2',
+        modes: [
+          {
+            name: 'NM',
+            unboundGoldReward: 0,
+            boundGoldReward: 16500,
+            chestPrice: 5280,
+            HMThreashold: 1720,
+            goldILvlLimit: Infinity,
+          },
+          {
+            name: 'HM',
+            unboundGoldReward: 0,
+            boundGoldReward: 24000,
+            chestPrice: 7680,
+            NightmareThreashold: 1750,
+            goldILvlLimit: Infinity,
+          },
+          {
+            name: 'Nightmare',
+            unboundGoldReward: 0,
+            boundGoldReward: 30000,
+            chestPrice: 9600,
+            goldILvlLimit: Infinity,
+          }
+        ],
+      }
+    ],
+  },
 ];

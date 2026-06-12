@@ -158,6 +158,10 @@ export const tasks = [
     shared: true,
     partySize: 4
   }),
+    createTask(`Horizon Cathedral`, 1700, TaskFrequency.WEEKLY, TaskScope.CHARACTER, 2, 9999, "byssal-dungeon.webp", {
+    shared: true,
+    partySize: 4
+  }),
 
   // Weekly Roster
   createTask(`South Vern Chaos Line Dungeon`, 1340, TaskFrequency.WEEKLY, TaskScope.ROSTER, 2, 9999, "dungeon.webp"),
