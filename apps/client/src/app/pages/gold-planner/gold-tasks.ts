@@ -1390,8 +1390,8 @@ export const goldTasks: GoldTask[] = [
         modes: [
           {
             name: 'NM',
-            unboundGoldReward: 12500,
-            boundGoldReward: 0,
+            unboundGoldReward: 6250,
+            boundGoldReward: 6250,
             chestPrice: 4000,
             HMThreashold: 1720,
             goldILvlLimit: Infinity,
@@ -1412,8 +1412,8 @@ export const goldTasks: GoldTask[] = [
         modes: [
           {
             name: 'NM',
-            unboundGoldReward: 20500,
-            boundGoldReward: 0,
+            unboundGoldReward: 10250,
+            boundGoldReward: 10250,
             chestPrice: 6560,
             HMThreashold: 1720,
             goldILvlLimit: Infinity,
@@ -1442,8 +1442,8 @@ export const goldTasks: GoldTask[] = [
         modes: [
           {
             name: 'NM',
-            unboundGoldReward: 14000,
-            boundGoldReward: 0,
+            unboundGoldReward: 7000,
+            boundGoldReward: 7000,
             chestPrice: 4480,
             HMThreashold: 1730,
             goldILvlLimit: Infinity,
@@ -1464,8 +1464,8 @@ export const goldTasks: GoldTask[] = [
         modes: [
           {
             name: 'NM',
-            unboundGoldReward: 26000,
-            boundGoldReward: 0,
+            unboundGoldReward: 13000,
+            boundGoldReward: 13000,
             chestPrice: 8320,
             HMThreashold: 1730,
             goldILvlLimit: Infinity,
@@ -1494,8 +1494,8 @@ export const goldTasks: GoldTask[] = [
         modes: [
           {
             name: 'NM',
-            unboundGoldReward: 14000,
-            boundGoldReward: 0,
+            unboundGoldReward: 7000,
+            boundGoldReward: 7000,
             chestPrice: 4480,
             HMThreashold: 1730,
             goldILvlLimit: Infinity,
@@ -1523,8 +1523,8 @@ export const goldTasks: GoldTask[] = [
         modes: [
           {
             name: 'NM',
-            unboundGoldReward: 21000,
-            boundGoldReward: 0,
+            unboundGoldReward: 10500,
+            boundGoldReward: 10500,
             chestPrice: 6720,
             HMThreashold: 1730,
             goldILvlLimit: Infinity,
